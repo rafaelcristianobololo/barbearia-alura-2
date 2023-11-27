@@ -6,3 +6,7 @@ background: #cccccc;
 em, strong{
 color:rgb(102, 132, 132)
 }
+
+.banner{
+    width: 100%;
+}
